@@ -1,0 +1,6 @@
+{
+  "name": "HackHub - Hackathon Team Management",
+  "description": "Collaborative sprint board, team roster, live hackathon countdown, pitch rehearsal timer, and submission checklist for hackathon teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
